@@ -35,7 +35,7 @@ body {
 /*File*/
 .showcase:before {
   content: "";
-  background: url("../img/Earth.jpg") no-repeat center center/cover;
+  background: url("../img/earth.jpg") no-repeat center center/cover;
   position: absolute;
   top: 0;
   left: 0;
