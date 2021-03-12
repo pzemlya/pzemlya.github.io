@@ -567,25 +567,7 @@ div.about_up {
   background-color: #fff;
 }
 
-.social-buttons__vk {
-  background-color: #45688e;
-  transform: color;
-  transition: 0.5s;
-}
 
-.social-buttons__vk:hover {
-  color: #45688e ;
-}
-
-.social-buttons__ok {
-  background-color: #f2720c;
-  transform: color;
-  transition: 0.5s;
-}
-
-.social-buttons__ok:hover {
-  color: #f2720c ;
-}
 
 .social-buttons__fb {
   background-color: #3a5795;
