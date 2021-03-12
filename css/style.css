@@ -535,7 +535,7 @@ div.about_up {
   text-decoration: none;
 }
 .cont-prof{
-    background: rgba(24, 39, 51, 0.85);
+    background: #808080;
   color: #fff;
   text-align: center;
   padding: 15px 0; 
@@ -549,7 +549,7 @@ div.about_up {
   margin-right: 0.4em;
 }
 .av_prav{
-  font-size:10px;
+  font-size:16px;
 }
 .social-buttons li:last-child {
   margin: 0;
